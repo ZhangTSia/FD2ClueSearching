@@ -1,6 +1,6 @@
 # Face Forgery Detection by 3D Decomposition and Composition Search
 ## Demo
-![whole_graph_small](./whole_graph_small.gif)
+<img src="./whole_graph_small.gif" alt="whole_graph_small" style="zoom: 50%;" />
 ## Introduction
 
 ## Citation
