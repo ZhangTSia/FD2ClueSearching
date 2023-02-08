@@ -12,15 +12,16 @@ In our previous work, a network is manually designed to extract features from th
 
 Based on this representation mapping, we can build the search space. A simplified search space with only three components: identity texture, lighting, and residual is built as:
 
-<img src="./whole_graph_small.gif" alt="whole_graph_small" style="zoom: 10%;" />
+<div align=center><img src="./whole_graph_small.gif" width=50%></div>
 
 This graph clearly relates our task with the Neural Network Search (NAS) technique. According to our search strategy, the searched result from the search space are shown below:
 
-<img src="./result1.jpg" alt="result1" style="zoom: 80%;" />
+<div align=center><img src="./result1.jpg" width=80%></div>
 
 If we incorporate the computation penalty, a smaller searched result can be obtained:
 
-<img src="./result2.jpg" alt="result2" style="zoom: 80%;" />
+<div align=center><img src="./result2.jpg" width=60%></div>
+
 
 ## Code
 
